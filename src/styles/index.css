@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  background: #654ea3;
+
+  /* stylelint-disable */
+  background: -webkit-linear-gradient(to right, #fcc8e2, #563ba0);
+  /* stylelint-enable */
+
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #fcc8e2, #563ba0);
+
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  box-sizing: border-box;
+  font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    'Roboto',
+    'Oxygen',
+    'Ubuntu',
+    'Cantarell',
+    'Fira Sans',
+    'Droid Sans',
+    'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+code {
+  font-family:
+    source-code-pro,
+    Menlo,
+    Monaco,
+    Consolas,
+    'Courier New',
+    monospace;
+}
