@@ -20,7 +20,7 @@ Clone this repository by typing `git clone https://github.com/Shiva1706/ghibli-f
 Run `npm install` on your command line.
 
 ### Usage
-Navigate to the project directory `cd ghibli-films`, and run `npm start`. Or, you may view the live demo here: 
+Navigate to the project directory `cd ghibli-films`, and run `npm start`. Or, you may view the live demo here:' https://shiva1706.github.io/ghibli-films-store/'.
 
 ## Show your support
 
