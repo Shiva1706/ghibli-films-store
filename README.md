@@ -3,13 +3,6 @@
 
 > A react web application that uses the [Studio Ghibli API](https://ghibliapi.herokuapp.com/#) to provide an index of their films and details so you can choose your favorite to watch. You can click on each card to get more details, and search by any of the details provided by the app: title, director, producer, etc!
 
-## Built With
-
-- React
-- Redux
-- Jest
-- [The Studio Ghibli API](https://ghibliapi.herokuapp.com/#)
-
 ## Live Demo 🚀
 https://shiva1706.github.io/ghibli-films-store/
 
@@ -27,7 +20,7 @@ Clone this repository by typing `git clone https://github.com/Shiva1706/ghibli-f
 Run `npm install` on your command line.
 
 ### Usage
-Navigate to the project directory `cd ghibli films`, and run `npm start`. Or, you may view the live demo here: 
+Navigate to the project directory `cd ghibli-films`, and run `npm start`. Or, you may view the live demo here: 
 
 ## Show your support
 
