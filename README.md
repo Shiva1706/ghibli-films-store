@@ -1,7 +1,9 @@
 
 # Studio Ghibli Films
 
-> A react web application that uses the [Studio Ghibli API](https://ghibliapi.herokuapp.com/#) to provide an index of their films and details so you can choose your favorite to watch. You can click on each card to get more details, and search by any of the details provided by the app: title, director, producer, etc!
+> A react web application that uses the [Studio Ghibli API](https://ghibliapi.herokuapp.com/#).
+
+You can click on each card to get more details, and search by any of the details provided by the app.
 
 ## Live Demo 🚀
 https://shiva1706.github.io/ghibli-films-store/
