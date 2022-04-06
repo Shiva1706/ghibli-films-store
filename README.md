@@ -1,5 +1,5 @@
 
-# Ghibli Films STORE
+# Ghibli Films Store
 
 > A react web application that uses the [Studio Ghibli API](https://ghibliapi.herokuapp.com/#).
 
