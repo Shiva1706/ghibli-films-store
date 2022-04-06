@@ -132,9 +132,7 @@ h2 {
 .DetailPage {
   background: #654ea3;
 
-  /* stylelint-disable */
   background: -webkit-linear-gradient(to right, #f09b93, #7e408b);
-  /* stylelint-enable */
 
   /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to right, #f09b93, #7e408b);
